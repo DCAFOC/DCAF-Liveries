@@ -1,10 +1,10 @@
 # DCAF Liveries
-## 2.0.0
- Digital Coalition Air Force Official Livery Pack
+# 2.0.0
+## Digital Coalition Air Force Official Livery Pack
 
- 1. Download/Install: https://github.com/sedenion/OpenModMan/releases/download/0.9.4/OpenModMan_0-9-4-x64_setup.exe
- 2. Download Livery Updater tool: https://github.com/DCAFOC/Livery-Updater/releases/tag/1.0.0
- 3. Before running the Livery Updater tool, follow these steps to setup Open Mod Manager (Recommend setting to run as admin if you're having issues)
+ ## 1. Download/Install: https://github.com/sedenion/OpenModMan/releases/download/0.9.4/OpenModMan_0-9-4-x64_setup.exe
+ ## 2. Download Livery Updater tool: https://github.com/DCAFOC/Livery-Updater/releases/tag/1.0.0
+ ## 3. Before running the Livery Updater tool, follow these steps to setup Open Mod Manager (Recommend setting to run as admin if you're having issues)
  
 After installing OpenModManager, run it and go File > New > Context
 This is where the Context profile will save, this doesn't have to be somewhere specific.
@@ -21,4 +21,4 @@ Finally once you've completed the download from running the Livery Updater tool,
 
 ![alt text](https://imgur.com/j3QApiM.png)
 
-AND THAT'S IT!!!
+## AND THAT'S IT!!!
