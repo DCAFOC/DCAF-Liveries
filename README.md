@@ -8,12 +8,14 @@
  
 After installing OpenModManager, run it and go File > New > Context
 This is where the Context profile will save, this doesn't have to be somewhere specific.
-  ![alt text](https://imgur.com/ZitQ4uV.png)
+  
+![alt text](https://imgur.com/ZitQ4uV.png)
 
-  After, click Next > This is where you'll select the destination folder (Where you installed DCS) 
-  Also create a custom libery folder, where we'll tell the Livery Updater tool to install/update the Livery repo (I used my old OVGME Mods folder for simplicity)
+After, click Next > This is where you'll select the destination folder (Where you installed DCS) 
+Also create a custom libery folder, where we'll tell the Livery Updater tool to install/update the Livery repo (I used my old OVGME Mods folder for simplicity)
 
-  ![alt text](https://imgur.com/ZM5n53a.png)
+![alt text](https://imgur.com/ZM5n53a.png)
 
-  Finally once you've completed the download from running the Livery Updater tool, you'll see the folder appear in Open Mod Manager, just install it AND THAT'S IT!!!
-  ![alt text](https://imgur.com/j3QApiM.png)
+Finally once you've completed the download from running the Livery Updater tool, you'll see the folder appear in Open Mod Manager, just install it AND THAT'S IT!!!
+
+![alt text](https://imgur.com/j3QApiM.png)
