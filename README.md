@@ -11,11 +11,11 @@ After installing OpenModManager, run it and go File > New > Context
   
 ![alt text](https://imgur.com/ZitQ4uV.png)
 
-### After, click Next > This is where you'll select the destination folder (Where you installed DCS).
+### After, click Next > This is where you'll select the destination folder (Where you installed DCS...).
 
 Also create a custom libery folder (Where we'll tell the Livery Updater tool to install/update the Livery repo).
 
-I used my old OVGME Mods folder for simplicity, make sure you've uninstalled any old version of the liveries.
+I used my old OVGME Mods folder for simplicity, make sure you've uninstalled any old versions of the liveries (Run repair DCS in windows start if you didn't use a mod manager).
 
 ### Click Finish
 
