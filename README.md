@@ -11,7 +11,9 @@ After installing OpenModManager, run it and go File > New > Context
   
 ![alt text](https://imgur.com/ZitQ4uV.png)
 
-### After, click Next > This is where you'll select the destination folder (Where you installed DCS...).
+### After, click Next > This is where you'll select the destination folder 
+
+### (Where you installed DCS)
 
 Also create a custom libery folder (Where we'll tell the Livery Updater tool to install/update the Livery repo).
 
