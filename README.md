@@ -4,16 +4,20 @@
 
  ## 1. Download/Install: https://github.com/sedenion/OpenModMan/releases/download/0.9.4/OpenModMan_0-9-4-x64_setup.exe
  ## 2. Download Livery Updater tool: https://github.com/DCAFOC/Livery-Updater/releases/tag/1.0.0
- ## 3. Before running the Livery Updater tool, follow these steps to setup Open Mod Manager (Recommend setting to run as admin if you're having issues)
+ ## 3. Before running the Livery Updater tool, follow these steps to setup Open Mod Manager (Recommend running as admin if you're having issues with the below):
  
 After installing OpenModManager, run it and go File > New > Context
-This is where the Context profile will save, this doesn't have to be somewhere specific.
+(This is where the Context profile will save, this doesn't have to be somewhere specific).
   
 ![alt text](https://imgur.com/ZitQ4uV.png)
 
-After, click Next > This is where you'll select the destination folder (Where you installed DCS) 
+### After, click Next > This is where you'll select the destination folder (Where you installed DCS).
 
-Also create a custom libery folder, where we'll tell the Livery Updater tool to install/update the Livery repo (I used my old OVGME Mods folder for simplicity)
+Also create a custom libery folder (Where we'll tell the Livery Updater tool to install/update the Livery repo).
+
+I used my old OVGME Mods folder for simplicity, make sure you've uninstalled any old version of the liveries.
+
+### Click Finish
 
 ![alt text](https://imgur.com/ZM5n53a.png)
 
