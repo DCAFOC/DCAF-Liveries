@@ -7,7 +7,7 @@
  ## 3. Before running the Livery Updater tool, follow these steps to setup Open Mod Manager (Recommend running as admin if you're having issues with the below):
  
 After installing OpenModManager, run it and go File > New > Context
-(This is where the Context profile will save, this doesn't have to be somewhere specific).
+(This is where the Context profile will save, this doesn't have to be anywhere specific).
   
 ![alt text](https://imgur.com/ZitQ4uV.png)
 
