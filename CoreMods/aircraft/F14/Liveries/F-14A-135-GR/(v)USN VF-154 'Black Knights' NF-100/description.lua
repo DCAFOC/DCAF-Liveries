@@ -18,6 +18,7 @@ livery = {
 {"HB_F14_EXT_DROPTANKS", 0 ,"HB_F14_EXT_DROPTANK.dds",false};
 {"HB_F14_EXT_PHOENIXRAILS", 0 ,"HB_F14_EXT_PHOENIXPYLONS.dds",false};
 {"HB_F14_EXT_PYLONS", 0 ,"HB_F14_EXT_PYLONS_01.dds",false};
+{"HB_F14_EXT_INTAKERAMPS",	0,	"HB_F14_EXT_INTAKERAMPS", false};
 
 
 --LODs  -----------------------------------
@@ -27,14 +28,17 @@ livery = {
 --Pilot  -----------------------------------
 
 {"HB_F14_EXT_PILOT_HELMET", 0 ,"HB_F14_EXT_PILOT_HELMET",false};
-{"HB_F14_EXT_RIO_HELMET", 0 ,"HB_F14_EXT_PILOT_HELMET",false};
-
 {"HB_F14_EXT_PILOT_HELMET", ROUGHNESS_METALLIC ,"HB_F14_EXT_PILOT_HELMET_RoughMet",false};
+{"HB_F14_EXT_PILOT_HELMET", 1 ,"HB_F14_EXT_PILOT_HELMET_Nrm",false};
+
+{"HB_F14_EXT_RIO_HELMET", 0 ,"HB_F14_EXT_PILOT_HELMET",false};
+{"HB_F14_EXT_RIO_HELMET", ROUGHNESS_METALLIC ,"HB_F14_EXT_PILOT_HELMET_RoughMet",false};
+{"HB_F14_EXT_RIO_HELMET", 1 ,"HB_F14_EXT_PILOT_HELMET_Nrm",false};
 
 {"HB_F14_EXT_PILOT_SUIT", 0 ,"HB_F14_EXT_PILOT_SUIT",false};
 }
-name = "(v)USN VF-154 'Black Knights' CO NF-100"
+name = "(v)USN VF-154 'Black Knights' NF-100"
 countries = {"USA",}
 --Property of Digital Coalition Airforce Skinpack
--- By DCAF CTCVisuals 05/08/2019 Fiverr Order #FO81A4663B908
+-- By DCAF CTCVisuals 07/05/2021
 --https://www.fiverr.com/ctcvisuals/create-custom-dcs-world-liveries
