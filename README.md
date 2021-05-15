@@ -15,7 +15,7 @@ After installing OpenModManager, run it and go File > New > Context
 
 ### (YOUR SAVED GAMES DCS FOLDER exp. C:\Users\{User}\Saved Games\DCS.openbeta)
 
-Also create a custom libery folder (Where we'll tell the Livery Updater tool to install/update the Livery repository).
+Also create a custom library folder (Where we'll tell the Livery Updater tool to install/update the Livery repository).
 
 I used my old OVGME Mods folder for simplicity, make sure you've uninstalled any old versions of the liveries (Run repair DCS in windows start if you didn't use a mod manager).
 
