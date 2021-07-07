@@ -2,7 +2,7 @@
 
 ## Digital Coalition Air Force Official Livery Pack
 
- ## 1. Download/Install: https://github.com/sedenion/OpenModMan/releases/download/0.9.4/OpenModMan_0-9-4-x64_setup.exe
+ ## 1. Download/Install Open Mod Manager (latest x64 version): https://github.com/sedenion/OpenModMan/releases
  ## 2. Download Livery Updater tool (Livery-Updater.zip): https://github.com/DCAFOC/Livery-Updater/releases/
  ## 3. Before running the Livery Updater tool, follow these steps to setup Open Mod Manager (Recommend running as admin if you're having issues with the below):
  
