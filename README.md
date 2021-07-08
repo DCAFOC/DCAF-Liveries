@@ -5,3 +5,5 @@
  ## 1. Download/Install: https://github.com/sedenion/OpenModMan/releases/
  ## 2. Download Livery Updater tool (Livery-Updater.zip): https://github.com/DCAFOC/Livery-Updater/releases/
  ## 3. Follow this installation guide: https://youtu.be/Pv08rxCdAIM
+
+ ## UPDATING YOUR LIVERIES: https://youtu.be/O1jZh4-RGN4
