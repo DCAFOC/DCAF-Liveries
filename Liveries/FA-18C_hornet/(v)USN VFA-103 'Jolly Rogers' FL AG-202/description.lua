@@ -204,7 +204,7 @@ livery = {
 	{"F18C_BORT_NUMBER_MTW_aus_L_01", DECAL ,"empty",true};	
 }
 name = "(v)USN VFA-103 'Jolly Rogers' FL AG-202"
-countries = {"USA",}
+--countries = {"USA",}
 --Property of Digital Coalition Airforce Skinpack
 --By DCAF CTCVisuals 01/06/2018 Inspired by Skate Zilla
 --https://www.fiverr.com/ctcvisuals/create-custom-dcs-world-liveries

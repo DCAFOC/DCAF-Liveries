@@ -146,5 +146,4 @@ name = "(v)RNLAF 323rd Squadron 1981-1992"
 --Property of Digital Coalition Airforce Skinpack
 --DCAF by CTCVisuals 07/05/2020
 --https://www.fiverr.com/ctcvisuals/create-custom-dcs-world-liveries
-countries = {"NETH", "USA",}
-order     = 999
+--countries = {"NETH", "USA",}

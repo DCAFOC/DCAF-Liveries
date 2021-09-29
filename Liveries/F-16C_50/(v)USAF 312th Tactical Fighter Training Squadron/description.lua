@@ -136,5 +136,4 @@ name = "(v)USAF 312th Tactical Fighter Training Squadron 'Scorpions'"
 --Property of Digital Coalition Airforce Skinpack
 --DCAF by CTCVisuals 31/03/2020
 --https://www.fiverr.com/ctcvisuals/create-custom-dcs-world-liveries
-countries = {"USA",}
-order     = 999
+--countries = {"USA",}

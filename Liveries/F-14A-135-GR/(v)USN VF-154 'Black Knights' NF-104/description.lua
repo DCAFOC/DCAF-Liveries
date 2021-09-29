@@ -38,7 +38,7 @@ livery = {
 {"HB_F14_EXT_PILOT_SUIT", 0 ,"../(v)USN VF-154 'Black Knights' NF-100/HB_F14_EXT_PILOT_SUIT",false};
 }
 name = "(v)USN VF-154 'Black Knights' NF-104"
-countries = {"USA",}
+--countries = {"USA",}
 --Property of Digital Coalition Airforce Skinpack
 -- By DCAF CTCVisuals 07/05/2021
 --https://www.fiverr.com/ctcvisuals/create-custom-dcs-world-liveries

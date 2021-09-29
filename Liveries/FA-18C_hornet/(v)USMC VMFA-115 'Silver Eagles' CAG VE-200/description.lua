@@ -236,7 +236,7 @@ livery = {
 
 }
 name = "(v)USMC VMFA-115 'Silver Eagles' CAG VE-200"
-countries = {"USA",}
+--countries = {"USA",}
 --Property of Digital Coalition Airforce Skinpack
 --By DCAF CTCVisuals 01/07/2019
 --https://www.fiverr.com/ctcvisuals/create-custom-dcs-world-liveries

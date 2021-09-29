@@ -197,7 +197,7 @@ livery = {
 	{"F18C_BORT_NUMBER_MTW_aus_L_01", DECAL ,"F18C_bort_number",false};	
 }
 name = "(v)RAAF No. 2 OCU A21-34"
-countries = {"AUS", "USA",}
+--countries = {"AUS", "USA",}
 --Property of Digital Coalition Airforce Skinpack
 --By DCAF CTCVisuals 03/06/2018
 --https://www.fiverr.com/ctcvisuals/create-custom-dcs-world-liveries

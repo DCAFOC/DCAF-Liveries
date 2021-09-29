@@ -117,7 +117,7 @@ livery = {
 	{"pilot_P51_helmet_A", 0 ,"pilot_P51_helmet_A",true};  
 }
 name = "(v)RCAF 402 Squadron AC-111"
-countries = {"CAN", "USA",}
+--countries = {"CAN", "USA",}
 --Property of Digital Coalition Airforce Skinpack
 --By DCAF CTCVisuals 02/12/2017
 --https://www.fiverr.com/ctcvisuals/create-custom-dcs-world-liveries
