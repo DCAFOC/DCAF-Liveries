@@ -56,14 +56,14 @@ livery = {
 	{"LAU_129", ROUGHNESS_METALLIC,	                "../(v)USAF 119th FS 'Jersey Devils' HGV/LAU_129_diff_RoughMet",	        false}; 
 
 -- F16_bl50_Fuel_Tank_300Gal
-	{"Fuel_Tank_300Gal", 		 0,	                        "../(v)USAF 119th FS 'Jersey Devils' HGV/Fuel_Tank_300Gal",		    false};
+	{"Fuel_Tank_300Gal", 		 0,	                "Fuel_Tank_300Gal",		    		true};
 	{"Fuel_Tank_300Gal", 1,	                        "Fuel_Tank_300Gal_Normal",		    true};
 	{"Fuel_Tank_300Gal", ROUGHNESS_METALLIC,	    "../(v)USAF 119th FS 'Jersey Devils' HGV/Fuel_Tank_300Gal_RoughMet",	false};
 	
 -- F16_bl50_Fuel_Tank_370Gal
-	{"Tank_370", 0,	                        "../(v)USAF 119th FS 'Jersey Devils' HGV/fuel_tank_370gal_diff",		    false};
+	{"Tank_370", 0,	                        		"fuel_tank_370gal_diff",		    true};
 	{"F_16_Tank_370", 1,	                        "Fuel_Tank_370gal_NM",		        true};
-	{"Tank_370", ROUGHNESS_METALLIC,	        "../(v)USAF 119th FS 'Jersey Devils' HGV/Fuel_Tank_370Gal_RoughMet",	false};
+	{"Tank_370", ROUGHNESS_METALLIC,	        	"../(v)USAF 119th FS 'Jersey Devils' HGV/Fuel_Tank_370Gal_RoughMet",	false};
 	
 -- Cockpit Glass
 	{"F16_bl50_GLASS", 0,    "../(v)USAF 119th FS 'Jersey Devils' HGV/F16_bl50_Glass_weathered", false};
