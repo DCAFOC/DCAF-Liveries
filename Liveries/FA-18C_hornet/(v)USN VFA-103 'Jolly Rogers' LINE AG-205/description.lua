@@ -10,7 +10,7 @@ livery = {
 	{"pilot_F18_patch", 0 ,"../(v)USN VFA-103 'Jolly Rogers' CAG AG-200/Pilot_F18_Patch",false};
 	{"pilot_F18_patch", 1 ,"../(v)USN VFA-103 'Jolly Rogers' CAG AG-200/Pilot_F18_Patch_NORM",false};
 	{"pilot_F18_patch", ROUGHNESS_METALLIC ,"../(v)USN VFA-103 'Jolly Rogers' CAG AG-200/Pilot_F18_Patch_RoughMet",false};
-	{"pilot_F18_helmet", 0, "../(v)USN VFA-103 'Jolly Rogers' CAG AG-200/pilot_F18_helmet", false};
+	{"pilot_F18_helmet", 0, "pilot_F18_helmet", false};
 	{"pilot_F18_helmet", 13, "pilot_F18_helmet_RoughMet", true};
 	
 	--Fuel Tanks
